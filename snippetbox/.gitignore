@@ -1,0 +1,9 @@
+# Env
+env
+.envrc
+
+# SSL / TLS
+tls/
+
+# builds
+bin/
