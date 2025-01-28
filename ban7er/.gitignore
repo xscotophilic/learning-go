@@ -1,0 +1,6 @@
+# Env
+env
+.envrc
+
+# builds
+bin/

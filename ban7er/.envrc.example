@@ -1,0 +1,4 @@
+export API_KEY="test"
+export API_SECRET="test"
+export VAULT_ADDRESS="https://127.0.0.1:8200"
+export VAULT_TOKEN="test"
